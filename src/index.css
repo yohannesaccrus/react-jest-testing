@@ -4,3 +4,11 @@ body {
   font-family: sans-serif;
   background: #222;
 }
+
+.title {
+	color: #fff;
+}
+
+header a {
+	text-decoration: none;
+}
